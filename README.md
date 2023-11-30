@@ -88,10 +88,10 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![beautfulsoup](https://img.shields.io/badge/-beautfulsoup-%43B02A?style=for-the-badge&logo=beautfulsoup&logoColor=white)
 
-### 🧪 **Testing**
+### 🧪 **Scrapping**
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![beautfulsoup](https://img.shields.io/badge/-beautfulsoup-%43B02A?style=for-the-badge&logo=beautfulsoup&logoColor=white)
 
 ### ☁️ **CLOUDS**
 [![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
