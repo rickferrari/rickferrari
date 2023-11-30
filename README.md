@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### 🧪 **Scrapping**
+### 🧪 **SCRAPPING**
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![beautfulsoup](https://img.shields.io/badge/-beautfulsoup-%43B02A?style=for-the-badge&logo=beautfulsoup&logoColor=white)
 
