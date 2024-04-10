@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Alt text](image.png)![Alt text](image-1.png)
 -->
-#  Henrique Ferrari
+#  𝓗𝓮𝓷𝓻𝓲𝓺𝓾𝓮 𝓕𝓮𝓻𝓻𝓪𝓻𝓲
 :brazil: :it:
 <!-- ![Discord](https://aleen42.github.io/badges/src/ferrari.svg?style=for-the-badge&logo=x&align=right&logoColor=white) -->
 <br>
@@ -43,46 +43,81 @@ Here are some ideas to get you started:
 [![Tableau](https://img.shields.io/badge/Tableau-F80000?style=for-the-badge&logo=Tableau&logoColor=white "Tableau")][repo]
 
 ### 🛠️ **DATA ENGINEERING**
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black "Apache Spark")][repo]
 [![Pentaho](https://img.shields.io/badge/Pentaho-111666?style=for-the-badge&logo=Pentaho&logoColor=white "Pentaho")][repo]
 [![Datastage](https://img.shields.io/badge/Datastage-111666?style=for-the-badge&logo=Datastage&logoColor=white "Datastage")][repo]
+[![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-666666.svg?style=for-the-badge&logo=nifi-Archive&logoColor=white "Apache NiFi")][repo]
 [![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white "Talend")][repo]
 ![Airbyte](https://img.shields.io/badge/Airbyte-017CEE?style=for-the-badge&logo=Airbyte&logoColor=white)
-
-<!-- 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black "Apache Spark")][repo]
+[![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white "dbt")][repo]
+<!--    EM ESTUDO 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
  -->
 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white "Terraform")][repo]
+[![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18.svg?style=for-the-badge&logo=OpenTofu&logoColor=black "OpenTofu")][repo]
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white "Docker")][repo]
+
 ### 📅 **DATABASES**
 [![DB2](https://img.shields.io/badge/IBM-_DB2-4EA94B?style=for-the-badge&logo=ibm&logoColor=white "DB2")][repo]
+[![IIAS](https://img.shields.io/badge/IBM-_IIAS-4EA94B?style=for-the-badge&logo=ibm&logoColor=white "IIAS")][repo]
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white "Oracle")][repo] 
 [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "Mysql")][repo]
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")][repo]
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white "MariaDB")][repo]
+[![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")][repo]
+[![Netezza](https://img.shields.io/badge/IBM-_Netezza-4EA94B?style=for-the-badge&logo=ibm&logoColor=white "Netezza")][repo]
+
+[![MinIO](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white "MinIO")][repo]
+[![Apache IceBerg](https://img.shields.io/badge/IceBerg-0690FA.svg?style=for-the-badge&logo=IceBerg&logoColor=white "Apache IceBerg")][repo]
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white "Redis")][repo]
-[![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")][repo]
-<!-- 
+
+<!--    EM ESTUDO
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
  -->
 
-### ⚙ **PROGRAMMING LANGUAGES**
+[![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white "JSON")][repo]
+[![Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1.svg?style=for-the-badge&logo=Apache-Parquet&logoColor=white "Parquet")][repo]
+[![Avro](https://img.shields.io/badge/Avro-512DA8.svg?style=for-the-badge&logo=&logoColor=white "Avro")][repo]
+
+ ### ☁️ **CLOUDS**
+[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
+[![Google Cloud](https://img.shields.io/badge/Google-_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-_Azure-1572B6?style=for-the-badge&logo=microsoftazure&logoColor=white "Microsoft Azure")][repo]
+[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white "IBM Cloud")][repo]
+
+### 🔨 **TOOLS**
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white "GitLab")][repo]
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo]
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white "Jupyter")][repo]
+[![Trino](https://img.shields.io/badge/Trino-DD00A1.svg?style=for-the-badge&logo=Trino&logoColor=white "Trino")][repo]
+<!-- https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white -->
+
+### ⚙ **LANGUAGES**
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "Markdown")][repo]
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white "Go")][repo]
+[![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white "YAML")][repo]
+[![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white "Helm")][repo]
+
+<!--    I KNOW, BUT I DON'T LIKE THIS!!
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")][repo]
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][repo]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white "Flask")][repo]
-
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white "Go")][repo]
+-->
 
 ### 📈 **ML/DL**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -93,35 +128,23 @@ Here are some ideas to get you started:
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![beautfulsoup](https://img.shields.io/badge/-beautfulsoup-%43B02A?style=for-the-badge&logo=beautfulsoup&logoColor=white)
 
-### ☁️ **CLOUDS**
-[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
-[![Google Cloud](https://img.shields.io/badge/Google-_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft-_Azure-1572B6?style=for-the-badge&logo=microsoftazure&logoColor=white "Microsoft Azure")][repo]
-
-### 🔨 **TOOLS**
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white "Docker")][repo]
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white "Stack Overflow")][repo]
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white "Reddit")][repo]
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
-<!-- https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white -->
-
 ### 📝 **CODE EDITOR & IDES**
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo]
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white "Anaconda")][repo]
 [![PpyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green "PpyCharm")][repo]
 [![Notpad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black "Notpad++")][repo]
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white "Obsidian")][repo]
+<!--
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white "Anaconda")][repo]
+-->
 
 ### 📚 **MY LEARNING RESOURCES**
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white "Reddit")][repo]
 [![DigitalOcean](https://img.shields.io/badge/DO_Community-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)][doc]
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
@@ -134,6 +157,7 @@ Here are some ideas to get you started:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162.svg?style=for-the-badge&logo=Glassdoor&logoColor=white)][Glassdoor]
 
 [sof]: https://stackoverflow.com/
 [medium]: https://medium.com/
@@ -149,6 +173,7 @@ Here are some ideas to get you started:
 [quora]: https://www.quora.com/
 [google]: https://www.google.com
 [github]: https://github.com/
+[Glassdoor]: https://glassdoor.com
 [repo]: https://github.com/rickferrari?tab=repositories
 
 
