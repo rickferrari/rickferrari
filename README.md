@@ -29,6 +29,7 @@ Designing intelligent data infrastructure — from enterprise ETL pipelines to A
 ## 💼 Skills
 
 ### 🤖 AI & AGENTS
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)][repo]
 [![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)][repo]
 [![Agno](https://img.shields.io/badge/Agno-6366F1?style=for-the-badge&logo=agno&logoColor=white)][repo]
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)][repo]
@@ -89,9 +90,13 @@ Designing intelligent data infrastructure — from enterprise ETL pipelines to A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rickferrari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rickferrari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickferrari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickferrari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickferrari&theme=tokyonight" alt="GitHub Activity" />
 </p>
 
 ---
