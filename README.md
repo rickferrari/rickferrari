@@ -2,11 +2,23 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rickferrari&style=flat-square&color=0891b2" alt="Profile Views" />
 
-**Senior Data Engineer & AI Architect** · São Paulo, Brazil · 12+ years
+**Senior Data Engineer & AI Developer** · São Paulo, Brazil · 12+ years
 
-Designing intelligent data infrastructure — from enterprise ETL pipelines to AI-driven automation with autonomous agents. Specialized in MicroStrategy analytics, modern data stack (Databricks, dbt, Airflow), and multi-cloud platforms. Currently pioneering AI Agent implementations with CrewAI and Agno, transitioning toward Databricks and Microsoft Fabric.
+Designing intelligent data infrastructure — from enterprise ETL pipelines to AI-driven automation with autonomous agents. Specialized in MicroStrategy analytics, the modern data stack (dbt, Data Vault, Data Lakehouses), and multi-cloud platforms. Currently pioneering AI Agent implementations with CrewAI and Agno, transitioning toward Databricks and Microsoft Fabric. Delivering scalable architectures that reduce costs, optimize ETL runtimes, and unlock actionable insights through GenAI and robust DataOps practices.
 
 🌐 **[Portfolio → rickferrari.github.io/portfolio](https://rickferrari.github.io/portfolio/)**
+
+---
+
+## 🚀 Featured Projects
+
+- 🏗️ **[Data Engineering Portfolios](https://github.com/rickferrari?tab=repositories)**: Comprehensive Data Vault and Medallion architecture implementations (Finance) to showcase modern data stack capabilities.
+
+<!--
+- 🧠 **[Autonomous AI Agents](https://github.com/rickferrari?tab=repositories)**: Implementing robust multi-agent workflows using CrewAI, LangGraph, and Agno for autonomous data analysis and pipeline orchestration.
+- 🏗️ **[Data Engineering Portfolios](https://github.com/rickferrari?tab=repositories)**: Comprehensive Data Vault and Medallion architecture implementations (Retail, Healthcare, Finance) to showcase modern data stack capabilities.
+- ⚙️ **[Synthetic Data Generator](https://github.com/rickferrari?tab=repositories)**: Scalable Python framework for generating production-like test data with CDC simulation (I/U/D), leveraging Faker and ShadowTraffic.
+-->
 
 ---
 
@@ -28,62 +40,14 @@ Designing intelligent data infrastructure — from enterprise ETL pipelines to A
 
 ## 💼 Skills
 
-### 🤖 AI & AGENTS
-[![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)][repo]
-[![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)][repo]
-[![Agno](https://img.shields.io/badge/Agno-6366F1?style=for-the-badge&logo=agno&logoColor=white)][repo]
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)][repo]
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)][repo]
-[![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)][repo]
-
-### 🛠️ DATA ENGINEERING
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)][repo]
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)][repo]
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)][repo]
-[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)][repo]
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)][repo]
-[![Pentaho](https://img.shields.io/badge/Pentaho-111666?style=for-the-badge&logo=Pentaho&logoColor=white)][repo]
-[![Datastage](https://img.shields.io/badge/DataStage-111666?style=for-the-badge&logo=ibm&logoColor=white)][repo]
-[![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-666666?style=for-the-badge&logo=apache&logoColor=white)][repo]
-[![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)][repo]
-[![Airbyte](https://img.shields.io/badge/Airbyte-017CEE?style=for-the-badge&logo=Airbyte&logoColor=white)][repo]
-[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)][repo]
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)][repo]
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white)][repo]
-[![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=OpenTofu&logoColor=black)][repo]
-
-### 📊 BI & ANALYTICS
-[![MicroStrategy](https://img.shields.io/badge/MicroStrategy-F80000?style=for-the-badge&logo=microstrategy&logoColor=white)][repo]
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)][repo]
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][repo]
-
-### 🗄️ DATABASES & STORAGE
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)][repo]
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)][repo]
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)][repo]
-[![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)][repo]
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)][repo]
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)][repo]
-[![DB2](https://img.shields.io/badge/IBM_DB2-4EA94B?style=for-the-badge&logo=ibm&logoColor=white)][repo]
-[![Netezza](https://img.shields.io/badge/IBM_Netezza-4EA94B?style=for-the-badge&logo=ibm&logoColor=white)][repo]
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=white)][repo]
-[![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0690FA?style=for-the-badge&logo=apache&logoColor=white)][repo]
-
-### ☁️ CLOUD
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)][repo]
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)][repo]
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)][repo]
-[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=IBM-Cloud&logoColor=white)][repo]
-
-### ⚙️ LANGUAGES & TOOLS
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)][repo]
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)][repo]
-[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)][repo]
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][repo]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)][repo]
-[![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=Trino&logoColor=white)][repo]
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)][repo]
-[![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)][repo]
+| Category | Technologies |
+| :--- | :--- |
+| **🤖 AI & Agents** | [![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=crewai&logoColor=white)][repo] [![Agno](https://img.shields.io/badge/Agno-6366F1?style=flat-square&logo=agno&logoColor=white)][repo] [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)][repo] [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)][repo] [![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)][repo] |
+| **🛠️ Data Eng.** | [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)][repo] [![Fabric](https://img.shields.io/badge/Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)][repo] [![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)][repo] [![Spark](https://img.shields.io/badge/Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)][repo] [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)][repo] [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)][repo] [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)][repo] <br> [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white)][repo] [![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=OpenTofu&logoColor=black)][repo] [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)][repo] [![Pentaho](https://img.shields.io/badge/Pentaho-111666?style=flat-square&logo=Pentaho&logoColor=white)][repo] [![Datastage](https://img.shields.io/badge/DataStage-111666?style=flat-square&logo=ibm&logoColor=white)][repo] [![NiFi](https://img.shields.io/badge/NiFi-666666?style=flat-square&logo=apache&logoColor=white)][repo] [![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white)][repo] |
+| **📊 Analytics** | [![MicroStrategy](https://img.shields.io/badge/MicroStrategy-F80000?style=flat-square&logo=microstrategy&logoColor=white)][repo] [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)][repo] [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)][repo] |
+| **🗄️ Databases** | [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)][repo] [![Qdrant](https://img.shields.io/badge/Qdrant-EF3826?style=flat-square&logo=qdrant&logoColor=white)][repo] [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)][repo] [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=MinIO&logoColor=white)][repo] [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)][repo] [![CD4P](https://img.shields.io/badge/CD4P-343434?style=flat-square)][repo] [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)][repo] <br> [![DB2](https://img.shields.io/badge/DB2-4EA94B?style=flat-square&logo=ibm&logoColor=white)][repo] [![Netezza](https://img.shields.io/badge/Netezza-4EA94B?style=flat-square&logo=ibm&logoColor=white)][repo] [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)][repo] [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)][repo] [![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)][repo] [![Iceberg](https://img.shields.io/badge/Iceberg-0690FA?style=flat-square&logo=apache&logoColor=white)][repo] |
+| **☁️ Cloud** | [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)][repo] [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)][repo] [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)][repo] [![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=IBM-Cloud&logoColor=white)][repo] |
+| **⚙️ Langs & Tools** | [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)][repo] [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)][repo] [![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=Trino&logoColor=white)][repo] [![Antigravity](https://img.shields.io/badge/Antigravity-0891b2?style=flat-square&logo=google&logoColor=white)][repo] [![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)][repo] [![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)][repo] <br> [![Warp](https://img.shields.io/badge/Warp-01AB8E?style=flat-square&logo=warp&logoColor=white)][repo] [![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)][repo] [![Opencode](https://img.shields.io/badge/Opencode-316192?style=flat-square&logo=code&logoColor=white)][repo] [![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)][repo] [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)][repo] [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)][repo] |
 
 ---
 
