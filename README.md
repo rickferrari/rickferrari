@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rickferrari&style=flat-square&color=0891b2" alt="Profile Views" />
 
-**Senior Data Engineer & AI Developer** · São Paulo, Brazil · 12+ years
+**Senior Data Engineer & AI Architect** · São Paulo, Brazil · 12+ years
 
 Designing intelligent data infrastructure — from enterprise ETL pipelines to AI-driven automation with autonomous agents. Specialized in MicroStrategy analytics, modern data stack (Databricks, dbt, Airflow), and multi-cloud platforms. Currently pioneering AI Agent implementations with CrewAI and Agno, transitioning toward Databricks and Microsoft Fabric.
 
@@ -84,6 +84,20 @@ Designing intelligent data infrastructure — from enterprise ETL pipelines to A
 [![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=Trino&logoColor=white)][repo]
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)][repo]
 [![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)][repo]
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rickferrari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickferrari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickferrari&theme=tokyonight" alt="GitHub Activity" />
+</p>
 
 ---
 
