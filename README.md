@@ -66,9 +66,11 @@ Designing intelligent data infrastructure — from enterprise ETL pipelines to A
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/rickferrari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+  <a href="https://github.com/rickferrari?tab=followers"><img src="https://img.shields.io/github/followers/rickferrari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" /></a>
   &nbsp;
-  <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <a href="https://www.buymeacoffee.com/rickferrari"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Built_with-Love-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Built with Love" />
 </p>
 
 [repo]: https://github.com/rickferrari?tab=repositories
